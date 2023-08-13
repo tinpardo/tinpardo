@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on projects related to crypto, in technologies like python, web3, solidity, javascript, react, and much more.
+I'm currently working on projects related to Mobile, crypto, in technologies like python, web3, solidity, kotlin, javascript, react, and much more.
 
 
 # 💻 Tech Stack:
